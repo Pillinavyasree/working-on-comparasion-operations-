@@ -1,0 +1,23 @@
+Assignment 1:
+a=20
+b=10
+print(a<b)
+print(a>b)
+print(a<=b)
+print(a>=b)
+print(a==b)
+print(!=b)
+Output:
+False
+True
+False
+True
+False
+True
+Assignment 2:
+km=int(input ('enter km'))
+Cm=km * 100000
+Print (cm)
+Output :
+enter km 6
+600000
